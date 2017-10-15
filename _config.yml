@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 #Set the theme to change general looks
-theme: cayman
+theme: jekyll-theme-leap-day
 
 # Use the following plug-ins
 gems:
